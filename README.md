@@ -1,10 +1,13 @@
-# Gmail clone
+# Gmail UI Clone
 
-Flutter Gmail mobile app clone
+Flutter Gmail mobile application clone, watch video on [youtube](https://www.youtube.com/watch?v=i5PcLvgccrc).
 
 ## Screens
 
-<img src="assets/images/2.png" width="250"/>
+<table>
+<td><img src="assets/images/2.png" width="250"/></td>
+<td><img src="assets/images/1.png" width="250"/></td>
+</table>
 
-<img src="assets/images/1.png" width="250"/>
+
 
